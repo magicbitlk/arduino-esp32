@@ -11,7 +11,7 @@ Relase Link -https://github.com/magicbitlk/arduino-esp32/releases/download/V1.0.
 
 ### Magicbit Board PINMAP
 
-![Pin Functions](docs/layout.png)
+![Pin Functions](docs/layout.PNG)
 
 ### Tip
 
