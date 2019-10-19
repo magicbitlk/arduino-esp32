@@ -9,7 +9,7 @@ Forked from [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32
 
 ### Magicbit Board PINMAP
 
-![Pin Functions](docs/esp32_pinmap.png)
+![Layout](docs/layout.PNG)
 
 ### Tip
 
