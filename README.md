@@ -2,21 +2,12 @@
 Forked from espressif/arduino-esp32
 
 ### Installation Instructions
-- Using Arduino IDE Boards Manager (preferred)
-  + [Instructions for Boards Manager](docs/arduino-ide/boards_manager.md)
-- Using Arduino IDE with the development repository
-  + [Instructions for Windows](docs/arduino-ide/windows.md)
-  + [Instructions for Mac](docs/arduino-ide/mac.md)
-  + [Instructions for Debian/Ubuntu Linux](docs/arduino-ide/debian_ubuntu.md)
-  + [Instructions for Fedora](docs/arduino-ide/fedora.md)
-  + [Instructions for openSUSE](docs/arduino-ide/opensuse.md)
-- [Using PlatformIO](docs/platformio.md)
-- [Building with make](docs/make.md)
-- [Using as ESP-IDF component](docs/esp-idf_component.md)
-- [Using OTAWebUpdater](docs/OTAWebUpdate/OTAWebUpdate.md)
+- Install the current upstream Arduino IDE at the 1.8 level or later. The current version is at the Arduino website.
+- Start Arduino and open Preferences window.
+- Enter one of the release links above into Additional Board Manager URLs field. You can add multiple URLs, separating them with commas.
+- Open Boards Manager from Tools > Board menu and install magicbit platform (and don't forget to select Magicbit from Tools > Board menu after installation).
 
-
-### ESP32Dev Board PINMAP
+### Magicbit Board PINMAP
 
 ![Pin Functions](docs/esp32_pinmap.png)
 
