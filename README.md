@@ -9,9 +9,9 @@ Relase Link -https://github.com/magicbitlk/arduino-esp32/releases/download/V1.0.
 - Enter one of the release links above into Additional Board Manager URLs field. You can add multiple URLs, separating them with commas.
 - Open Boards Manager from Tools > Board menu and install magicbit platform (and don't forget to select Magicbit from Tools > Board menu after installation).
 
-### Magicbit Board PINMAP
+### Magicbit Pinmap
 
-![Pin Functions](docs/layout.PNG)
+![Pin Functions](docs/pinout.png)
 
 ### Tip
 
