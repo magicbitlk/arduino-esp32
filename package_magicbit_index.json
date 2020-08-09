@@ -3,21 +3,21 @@
     {
       "maintainer": "Magicbit", 
       "help": {
-        "online": "http://www.magicbit.cc"
+        "online": "http://www.magicbit.lk"
       }, 
       "websiteURL": "https://github.com/magicbitlk/arduino-esp32", 
       "platforms": [
         {
           "category": "Magicbit", 
           "name": "magicbit", 
-          "url": "https://github.com/magicbitlk/arduino-esp32/releases/download/V1.0.1/magicbit-1.0.1.zip", 
+          "url": "https://github.com/magicbitlk/arduino-esp32/releases/download/V1.0.0/magicbit-1.0.0.zip", 
           "checksum": "SHA-256:ee64c7b683dbf17b19ee929b626bc3cf3f7d011f2d8381a9137bb0b00b61a26e", 
           "help": {
             "online": ""
           }, 
-          "version": "1.0.1", 
+          "version": "1.0.0", 
           "architecture": "esp32", 
-          "archiveFileName": "magicbit-1.0.1.zip", 
+          "archiveFileName": "magicbit-1.0.0.zip", 
           "boards": [
             {
               "name": "Magicbit"
@@ -260,7 +260,7 @@
           ]
         }
       ], 
-      "email": "info@magicbit.cc", 
+      "email": "info@magicbit.lk", 
       "name": "magicbit"
     }
   ]
